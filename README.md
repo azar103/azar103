@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azar103
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning MERN Stack:Front end (React js , Redux, SASS...) AND Back End (Node JS)
-- 💞️ I’m looking to collaborate on professionel prokect
+- 💞️ I’m looking to collaborate on professionel projects
 - 📫 My Linkedin is : https://www.linkedin.com/in/anis-zarrouk-9750a599/
 
 <!---
